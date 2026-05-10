@@ -1,1 +1,1 @@
-https://github.com/Mirtle50/ono-tebe-nado-fd
+https://github.com/Mirtle50/first-project
