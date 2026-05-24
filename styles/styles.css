@@ -28,7 +28,6 @@
 .header__links-list-item{
     font-size: 18px;
     padding: 0;
-    white-space: nowrap;
 }
 
 .header__links-list-item:first-child {
@@ -60,9 +59,10 @@
 }
 
 
-.address-block__header {
+.address-block {
     margin-top: 3px;
     grid-column: 3;
+    margin-right: 45px;
     justify-self: end;
     line-height: 24.3px;
     padding: 0;
@@ -123,11 +123,11 @@
 }
 
 .aligned-text{
-    padding-top: 165px;
     display: block;
 }
 
 .aligned-text-center{
+    margin-left: 30px;
     display: block;
     text-align: center;
 }
@@ -135,7 +135,6 @@
 .aligned-text-right {
     display: block;
     text-align: right;
-    padding-top: 20px;
     margin-right: -30px;
 }
 
@@ -297,7 +296,6 @@
 }
 
 .about__column {
-    height: 449px;
     width: 693px;
     margin-left: 72px;
     margin-top: 133px;
